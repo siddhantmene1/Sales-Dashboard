@@ -1,4 +1,4 @@
-# 📊 Customer & Sales Performance Dashboards – Tableau
+# 📊 Customer & Sales Performance Dashboards – Tableau Link (https://public.tableau.com/app/profile/siddhant.mene4865/viz/D9_CustomerDashboard_Interactive/Customers)
 
 ## Project Overview
 This project delivers **two interactive Tableau dashboards** – one for **Customer Analysis** and one for **Sales Analysis** – built according to clearly defined business requirements.  
