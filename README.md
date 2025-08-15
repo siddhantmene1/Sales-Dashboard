@@ -86,7 +86,7 @@ Analyze **overall sales performance** and identify trends, high-performing produ
 ---
 
 ## How to Use
-1. Download the `.twbx` file from `tableau-workbooks/`.
+1. Download the `.twbx`.
 2. Open in Tableau Desktop or Tableau Public.
 3. Use the **Select Year** parameter to switch between years.
 4. Explore filters and tooltips for deeper insights.
